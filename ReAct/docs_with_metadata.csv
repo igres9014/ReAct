@@ -1,0 +1,11 @@
+id,text,topic,source,year,tags
+doc-0,Chroma is a lightweight open-source embedding database.,db,docs,2024,chroma;db
+doc-1,FAISS is a library for efficient similarity search and clustering of dense vectors.,ann,blog,2023,faiss;vectors
+doc-2,"Hybrid search combines lexical (e.g., BM25) and semantic (dense) retrieval.",search,blog,2024,hybrid;bm25;dense
+doc-3,Ubuntu 22.04 is a Long Term Support (LTS) release of Ubuntu.,linux,news,2022,ubuntu;lts
+doc-4,BM25 ranks documents based on term frequency and inverse document frequency.,search,paper,2019,bm25;idf
+doc-5,Vector databases store embeddings and provide approximate nearest neighbor search.,db,guide,2024,vector-db
+doc-6,FAISS supports CPU and GPU indexes; faiss-cpu works well for small demos.,ann,docs,2022,faiss;cpu;gpu
+doc-7,Chroma can persist collections locally and integrates easily in Python pipelines.,db,docs,2024,chroma;python
+doc-8,OpenAI provides high-quality text embeddings like text-embedding-3-small.,embeds,docs,2025,openai;embeddings
+doc-9,Dense + sparse fusion often improves retrieval over either method alone.,search,blog,2024,fusion
