@@ -9,3 +9,6 @@ openai
 pandas
 pydantic
 pymilvus
+
+fastapi
+uvicorn
